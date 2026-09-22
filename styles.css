@@ -92,7 +92,7 @@ document flow and just place them exactly where I want them (for many elements, 
     font-size: 14px;
     font-family:'Courier New', Courier, monospace;
     text-align: center;
-    transform: rotate(140deg);
+    transform: rotate(200deg);
     z-index:2;
     transition: color .5s ease;
 }
