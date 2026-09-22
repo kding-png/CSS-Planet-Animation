@@ -24,7 +24,7 @@ document flow and just place them exactly where I want them (for many elements, 
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
-    animation: rotate 10s linear infinite; /* slow rotation of the parent container */
+    animation: rotate 20s linear infinite; /* slow rotation of the parent container */
     transition: transform 0.3s ease; /* smooth transition for any transform changes */
 }
 
